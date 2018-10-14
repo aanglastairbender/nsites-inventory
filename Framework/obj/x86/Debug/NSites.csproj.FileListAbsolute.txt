@@ -1,0 +1,130 @@
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\Main\NSites.exe.config
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Properties.Resources.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\Main\NSites.exe
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\Main\NSites.pdb
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.CustomerTransactionsUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.SearchesUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.SearchUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.exe
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.pdb
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\NSites.exe.config
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\NSites.exe
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.CrystalReports.Engine.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportSource.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.Shared.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.Windows.Forms.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\FlashControlV71.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\ShockwaveFlashObjects.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\stdole.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.csprojAssemblyReference.cache
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.csproj.ResolveComReference.cache
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.InventoryTypeDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.CustomerTransactionsUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.LogInUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.MDIUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.DateTimePickerUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.LookUpValueUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.MessageBoxInputUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.MessageBoxUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.SearchesUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Global.SearchUI.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.Properties.Resources.resources
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.csproj.GenerateResource.cache
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.csproj.CoreCompileInputs.cache
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.csproj.CopyComplete
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.exe
+F:\Applications\NSites\NSites-InventorySystem\Framework\obj\x86\Debug\NSites.pdb
+F:\Applications\NSites\NSites-InventorySystem\Framework\Main\NSites.pdb

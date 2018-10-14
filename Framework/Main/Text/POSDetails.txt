@@ -1,0 +1,1 @@
+OutletCode:01;OutletDesc:Main Outlet;OutletAddress:BigFoot Compound, Mactan, Lapu-Lapu City;MachineNo:012;SerialNor:;PrinterName:EPSON TM-T88IV Receipt;UpdateSMCoin:Y;PrintReceiptPrinter:Y

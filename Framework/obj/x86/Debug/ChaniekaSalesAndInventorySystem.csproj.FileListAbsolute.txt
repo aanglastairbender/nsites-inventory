@@ -1,0 +1,312 @@
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe.config
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.ResolveComReference.cache
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.pdb
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.DateTimePickerUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.LookUpValueUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxInputUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchesUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Properties.Resources.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.exe
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.pdb
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemCategoryDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.SalesEntryUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.WarehouseWithdrawalUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.WarehouseWithdrawalDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ItemDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.WithdrawalReportUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.AccountReceivableUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe.config
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.ResolveComReference.cache
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.exe
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.pdb
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csprojResolveAssemblyReference.cache
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemCategoryDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.WithdrawalReportUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.AccountReceivableUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountReceivableDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ItemDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MDIChaniekaSalesAndInventorySystemUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.WarehouseWithdrawalDetailUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.SalesEntryUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.WarehouseWithdrawalUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.DateTimePickerUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.LookUpValueUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxInputUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchesUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchUI.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Properties.Resources.resources
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.GenerateResource.Cache
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe
+C:\Personal Files\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.pdb
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountReceivableDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.CustomerLedgerUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.OverdueAccountUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ARReportUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe.config
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.ResolveComReference.cache
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.exe
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.pdb
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csprojResolveAssemblyReference.cache
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemCategoryDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ARReportUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.CustomerLedgerUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.OverdueAccountUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.WithdrawalReportUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.AccountReceivableUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountReceivableDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ItemDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.WarehouseWithdrawalDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.SalesEntryUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.WarehouseWithdrawalUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.DateTimePickerUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.LookUpValueUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxInputUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchesUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Properties.Resources.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.GenerateResource.Cache
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.pdb
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.ReservationUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe.config
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.ResolveComReference.cache
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.exe
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.pdb
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.pdb
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemCategoryDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ARReportUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.CustomerLedgerUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.OverdueAccountUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.WithdrawalReportUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.AccountReceivableUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountReceivableDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ItemDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MDIChaniekaSalesAndInventorySystemUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.WarehouseWithdrawalDetailUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.ReservationUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.SalesEntryUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.WarehouseWithdrawalUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchesUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchUI.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Properties.Resources.resources
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan.RAFI0\Desktop\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemReservationUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemReservationUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.ReservationUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemReservationUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\Personal Files\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe.config
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.exe
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.pdb
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.exe
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\Main\ChaniekaSalesAndInventorySystem.pdb
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ItemReservationUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.CustomerLedgerUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.OverdueAccountUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.WithdrawalReportUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.AccountReceivableUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountReceivableDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.ReservationUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.SalesEntryUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.GenerateResource.Cache
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\SOFTWARES\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.VoucherTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.VoucherTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.CheckVoucherUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountPayableDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckVoucherDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.BankDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckVoucherItemDetailUI.resources
+D:\Personal Files\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\Personal Files\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.AccountPayablesUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.CVIssuanceSummaryUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailsUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailsUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.WarehouseWithdrawalDetailsUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.AccountReceivableReportUI.resources
+D:\PERSONAL FILES\Softwares\Chanieka Sales and Inventory System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.ApplicationObjects.UserInterfaces.Report.AccountPayableReportUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\Main\ChaniekaSalesAndInventorySystem.exe.config
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.exe
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\ChaniekaSalesAndInventorySystem.pdb

@@ -1,0 +1,438 @@
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\Main\InventoryManagementSystem.exe.config
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\Main\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\Main\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.BankDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ItemReservationUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.VoucherTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.AccountPayableReportUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.AccountReceivableReportUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.CVIssuanceSummaryUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.CustomerLedgerUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.OverdueAccountUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.WithdrawalReportUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.AccountPayablesUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.AccountReceivableUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.CheckVoucherUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountPayableDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountReceivableDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckVoucherDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckVoucherItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailsUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailsUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.WarehouseWithdrawalDetailsUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.ReservationUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.SalesEntryUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares\Leman Inventory Management System\Framework\obj\x86\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\Main\InventoryManagementSystem.exe.config
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.BankDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ItemReservationUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.VoucherTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.AccountPayableReportUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.AccountReceivableReportUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.CVIssuanceSummaryUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.CustomerLedgerUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.OverdueAccountUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.WithdrawalReportUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.AccountPayablesUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.AccountReceivableUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.CheckVoucherUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountPayableDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.AccountReceivableDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckVoucherDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.CheckVoucherItemDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ItemDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailsUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ReservationItemDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryItemDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.SalesEntryDetailsUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.WarehouseWithdrawalDetailsUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.ReservationUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.SalesEntryUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\Main\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\Main\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\Main\InventoryManagementSystem.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\Main\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\Main\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Inventory Management System - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\Main\InventoryManagementSystem.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\Main\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\Main\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Leman Hardware\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\Main\InventoryManagementSystem.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\Main\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\Main\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online\Framework\obj\x86\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\Main\InventoryManagementSystem.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\Main\InventoryManagementSystem.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\Main\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.CustomerTransactionsUI.resources
+D:\PERSONAL FILES\N.SITES\JBC IMS - Online - SVR Marketing\Framework\Main\InventoryManagementSystem.exe.config
+D:\PERSONAL FILES\N.SITES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\N.SITES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\N.SITES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PERSONAL FILES\N.SITES\JBC IMS - Online - SVR Marketing\Framework\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\Main\InventoryManagementSystem.exe.config
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.ResolveComReference.cache
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\Main\InventoryManagementSystem.exe
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\Main\InventoryManagementSystem.pdb
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.CategoryDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.StockDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.CustomerTransactionsUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockInventoryUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.AuditTrailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.StockCardUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.Details.ViewStockReceivingDetailsUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.ApplicationObjects.UserInterfaces.Transaction.StockWithdrawalUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchesUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.Global.SearchUI.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\PERSONAL FILES\N.SITES\NSites-InventorySystem\Framework\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache

@@ -1,0 +1,416 @@
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csproj.ResolveComReference.cache
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MDIPOSGasolineStationUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.CreditCardUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.FormBase.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.KeyboardUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.NumericKeyboardUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SwipeCardUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csproj.ResolveComReference.cache
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CostCenterDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SalesTypeDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ProductDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MDIPOSGasolineStationUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.CreditCardUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.DateTimePickerUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.FormBase.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.KeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.LookUpValueUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxInputUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.NumericKeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchesUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SwipeCardUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csproj.GenerateResource.Cache
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\Main\POSGasolineStation.exe.config
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ExpenseTypeDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Properties.Resources.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\Main\POSGasolineStation.exe
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\Main\POSGasolineStation.pdb
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.exe
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.pdb
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesOrderUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.PayablesUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesJournalUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ExpenseJournalUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\Main\POSGasolineStation.exe.config
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.exe
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.pdb
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\Main\POSGasolineStation.exe
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\Main\POSGasolineStation.pdb
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CostCenterDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ExpenseTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SalesTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ProductDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesJournalDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ExpenseJournalUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.PayablesUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesJournalUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesOrderUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ExpenseJournalDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivableDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.PayableDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ProductDetailsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivingDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesOrderDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReturnItemUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnItemDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnProductDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.AdjustmentDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.StatementOfAccountUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.PumpDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CashierPeriodsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PumpReadingsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductSoldReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductReturnedReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReceivableAgingReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PayableAgingReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CostCenteringReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.DailySalesReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.StockMovementReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.FinancialPositionsUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\Main\POSGasolineStation.exe.config
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csproj.ResolveComReference.cache
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.exe
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.pdb
+D:\SOFTWARES\POSGasolineStation\Framework\Main\POSGasolineStation.exe
+D:\SOFTWARES\POSGasolineStation\Framework\Main\POSGasolineStation.pdb
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CostCenterDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ExpenseTypeDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.PumpDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SalesTypeDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ProductDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CashierPeriodsUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CostCenteringReportUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.DailySalesReportUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PayableAgingReportUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductReturnedReportUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductSoldReportUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PumpReadingsUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReceivableAgingReportUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.StockMovementReportUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.StatementOfAccountUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.AdjustmentDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ExpenseJournalDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.PayableDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ProductDetailsUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivableDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivingDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnItemDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnProductDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesOrderDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesJournalDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ExpenseJournalUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.FinancialPositionsUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.PayablesUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MDIPOSGasolineStationUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesJournalUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesOrderUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReturnItemUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.CreditCardUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.DateTimePickerUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.FormBase.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.KeyboardUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.LookUpValueUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxInputUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.NumericKeyboardUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchesUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SwipeCardUI.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Properties.Resources.resources
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.LookUpSalesUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.LookUpSalesUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.BelowReorderLevelUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csprojResolveAssemblyReference.cache
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.PumpDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CashierPeriodsUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CostCenteringReportUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.DailySalesReportUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PayableAgingReportUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductReturnedReportUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductSoldReportUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PumpReadingsUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReceivableAgingReportUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.BelowReorderLevelUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.StockMovementReportUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.LookUpSalesUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.StatementOfAccountUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.AdjustmentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ExpenseJournalDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.PayableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ProductDetailsUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivingDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnItemDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnProductDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesOrderDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesJournalDetailUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.FinancialPositionsUI.resources
+D:\JPlarisan Live Document\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReturnItemUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\Main\POSGasolineStation.exe.config
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csproj.ResolveComReference.cache
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.exe
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.pdb
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\Main\POSGasolineStation.exe
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\Main\POSGasolineStation.pdb
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csprojResolveAssemblyReference.cache
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CostCenterDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ExpenseTypeDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.PumpDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SalesTypeDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ProductDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CashierPeriodsUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CostCenteringReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.DailySalesReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PayableAgingReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductReturnedReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductSoldReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PumpReadingsUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReceivableAgingReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.BelowReorderLevelUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.StockMovementReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.LookUpSalesUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.StatementOfAccountUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.AdjustmentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ExpenseJournalDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.PayableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ProductDetailsUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivingDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnItemDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnProductDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesOrderDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesJournalDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ExpenseJournalUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.FinancialPositionsUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.PayablesUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MDIPOSGasolineStationUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesJournalUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesOrderUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReturnItemUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.CreditCardUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.DateTimePickerUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.FormBase.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.KeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.LookUpValueUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxInputUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.NumericKeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchesUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SwipeCardUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Properties.Resources.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\CLIENT SOFTWARES\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csproj.GenerateResource.Cache
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\Main\POSGasolineStation.exe.config
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.csproj.ResolveComReference.cache
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.exe
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.pdb
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\Main\POSGasolineStation.exe
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\Main\POSGasolineStation.pdb
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.CostCenterDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ExpenseTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.PumpDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SalesTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.SupplierDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ProductDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CashierPeriodsUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.CostCenteringReportUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.DailySalesReportUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PayableAgingReportUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductReturnedReportUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ProductSoldReportUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.PumpReadingsUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReceivableAgingReportUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.BelowReorderLevelUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.SalesReportUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.StockMovementReportUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.LookUpSalesUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.StatementOfAccountUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockAdjustmentUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.AdjustmentDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ExpenseJournalDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.PayableDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ProductDetailsUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivableDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReceivingDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnItemDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.ReturnProductDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesOrderDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.StockReceivingUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.SalesJournalDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ExpenseJournalUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.FinancialPositionsUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.PayablesUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MDIPOSGasolineStationUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesJournalUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.SalesOrderUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.ReturnItemUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.CreditCardUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.FormBase.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.KeyboardUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.NumericKeyboardUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Global.SwipeCardUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.PaidDetailsUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.Transaction.Details.CashiersExpensesDetailUI.resources
+C:\Users\jplarisan\Desktop\POSGasolineStation\Framework\obj\x86\Debug\POSGasolineStation.ApplicationObjects.UserInterfaces.MasterFile.DipstickEquivalentDetailUI.resources
+C:\Users\jplarisan\Desktop\AKK Lending Management\Framework\Main\POSGasolineStation.exe.config
+C:\Users\jplarisan\Desktop\AKK Lending Management\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\jplarisan\Desktop\AKK Lending Management\Framework\obj\x86\Debug\POSGasolineStation.csproj.ResolveComReference.cache
+C:\Users\jplarisan\Desktop\AKK Lending Management\Framework\obj\x86\Debug\POSGasolineStation.exe
+C:\Users\jplarisan\Desktop\AKK Lending Management\Framework\obj\x86\Debug\POSGasolineStation.pdb

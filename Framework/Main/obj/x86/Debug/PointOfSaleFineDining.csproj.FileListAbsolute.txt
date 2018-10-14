@@ -1,0 +1,338 @@
+E:\Softwares\PointOfSale\Framework\Main\PointOfSaleFineDining.exe.config
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.csproj.ResolveComReference.cache
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Properties.Resources.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementCustomerUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountPaymentUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MDIPointOfSaleFineDiningUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.CreditCardUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.DateTimePickerUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.FormBase.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.KeyboardUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.LookUpValueUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.MessageBoxInputUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.MessageBoxUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.NumericKeyboardUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SearchesUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SearchUI.resources
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SwipeCardUI.resources
+E:\Softwares\PointOfSale\Framework\Main\PointOfSaleFineDining.exe
+E:\Softwares\PointOfSale\Framework\Main\PointOfSaleFineDining.pdb
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.exe
+E:\Softwares\PointOfSale\Framework\obj\x86\Debug\PointOfSaleFineDining.pdb
+E:\Softwares\PointOfSaleFineDining\Framework\Main\PointOfSaleFineDining.exe.config
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.csproj.ResolveComReference.cache
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.exe
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.pdb
+E:\Softwares\PointOfSaleFineDining\Framework\Main\PointOfSaleFineDining.exe
+E:\Softwares\PointOfSaleFineDining\Framework\Main\PointOfSaleFineDining.pdb
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementCustomerUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountPaymentUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MDIPointOfSaleFineDiningUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.CreditCardUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.DateTimePickerUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.FormBase.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.KeyboardUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.LookUpValueUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.MessageBoxInputUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.MessageBoxUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.NumericKeyboardUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SearchesUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SearchUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SwipeCardUI.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.Properties.Resources.resources
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Softwares\PointOfSaleFineDining\Framework\Main\PointOfSaleFineDining.exe.config
+D:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.csproj.ResolveComReference.cache
+D:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.exe
+D:\Softwares\PointOfSaleFineDining\Framework\obj\x86\Debug\PointOfSaleFineDining.pdb
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\Main\PointOfSaleFineDining.exe.config
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.csproj.ResolveComReference.cache
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.exe
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.pdb
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\Main\PointOfSaleFineDining.exe
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\Main\PointOfSaleFineDining.pdb
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementCustomerUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountPaymentUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.StatementOfAccountUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.MDIPointOfSaleFineDiningUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.CreditCardUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.DateTimePickerUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.FormBase.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.KeyboardUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.LookUpValueUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.MessageBoxInputUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.MessageBoxUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.NumericKeyboardUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SearchesUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SearchUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Global.SwipeCardUI.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\PointOfSaleFineDining.Properties.Resources.resources
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jesryl\Desktop\PointOfSaleFineDining - El Tiki Bar\Framework\obj\x86\Debug\GenerateResource.write.1.tlog

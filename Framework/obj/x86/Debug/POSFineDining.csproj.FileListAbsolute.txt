@@ -1,0 +1,673 @@
+C:\Users\admin\Desktop\POSFineDining\Framework\Main\POSFineDining.exe.config
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\POSFineDining\Framework\Main\POSFineDining.exe
+C:\Users\admin\Desktop\POSFineDining\Framework\Main\POSFineDining.pdb
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MDIPOSFineDiningUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.CreditCardUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.DateTimePickerUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.FormBase.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.KeyboardUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.LookUpValueUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxInputUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.NumericKeyboardUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchesUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SwipeCardUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Properties.Resources.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.exe
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.pdb
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.StatementCustomerUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ProcessReceivableUI.resources
+C:\Users\admin\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablePaymentUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\Main\POSFineDining.exe.config
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.ResolveComReference.cache
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.exe
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.pdb
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\Main\POSFineDining.exe
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\Main\POSFineDining.pdb
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.StatementCustomerUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ProcessReceivableUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablePaymentUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MDIPOSFineDiningUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.CreditCardUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.DateTimePickerUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.FormBase.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.KeyboardUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.LookUpValueUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxInputUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.NumericKeyboardUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchesUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SwipeCardUI.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Properties.Resources.resources
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAPConcept\Desktop\POSFineDining\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\Main\POSFineDining.exe.config
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.exe
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.pdb
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\Main\POSFineDining.exe
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\Main\POSFineDining.pdb
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.StatementCustomerUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ProcessReceivableUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablePaymentUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MDIPOSFineDiningUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.CreditCardUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.DateTimePickerUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.FormBase.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.KeyboardUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.LookUpValueUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxInputUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.NumericKeyboardUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchesUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SwipeCardUI.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Properties.Resources.resources
+C:\Users\admin\Desktop\Softwares\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.GenerateResource.Cache
+E:\software backup\POSFineDining\Framework\Main\POSFineDining.exe.config
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.ResolveComReference.cache
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.exe
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.pdb
+E:\software backup\POSFineDining\Framework\Main\POSFineDining.exe
+E:\software backup\POSFineDining\Framework\Main\POSFineDining.pdb
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csprojResolveAssemblyReference.cache
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.StatementCustomerUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ProcessReceivableUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablePaymentUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MDIPOSFineDiningUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.CreditCardUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.DateTimePickerUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.FormBase.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.KeyboardUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.LookUpValueUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxInputUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.NumericKeyboardUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchesUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SwipeCardUI.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Properties.Resources.resources
+E:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.GenerateResource.Cache
+D:\software backup\POSFineDining\Framework\Main\POSFineDining.exe.config
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.ResolveComReference.cache
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.exe
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.pdb
+D:\software backup\POSFineDining\Framework\Main\POSFineDining.exe
+D:\software backup\POSFineDining\Framework\Main\POSFineDining.pdb
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.StatementCustomerUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ProcessReceivableUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablePaymentUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MDIPOSFineDiningUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.CreditCardUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.DateTimePickerUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.FormBase.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.KeyboardUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.LookUpValueUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxInputUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.NumericKeyboardUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchesUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SwipeCardUI.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Properties.Resources.resources
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\software backup\POSFineDining\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\Main\POSFineDining.exe.config
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.csproj.ResolveComReference.cache
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.exe
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.pdb
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\Main\POSFineDining.exe
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\Main\POSFineDining.pdb
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.AddItemUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.DiscountDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemQtyUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.InventoryGroupDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ItemGroupDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ModeOfPaymentDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OrderTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.OutletDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.SurchargeDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.TableLocationDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.UnitDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.EJournalUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundTransactionUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReorderLevelUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesBookUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CashierPeriodUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesDayUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.SalesJournalUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.StatementCustomerUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ProcessReceivableUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablePaymentUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ReceivablesUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.CloseSalesDayUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionDetailsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.TransactionsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.RefundJournalUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerReceiptUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Report.VoidTransactionsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.MDIPOSFineDiningUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.TransactionalBackUpUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserListUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CloseCashierPeriodUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ChargeToAccountUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombinedOrdersUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CombineItemDetailsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.CreditCardPaymentUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.DiscountTransUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.EditItemQtyUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.InputAmountUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitItemDetailsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TransactionListUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.UpdatePaymentDetailsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.VoidOrderDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.DeliveryUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryItemQtyUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryReportUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventorySplitItemQtyUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.InventoryUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.LostItemUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.ReturnedItemUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.SplitItemUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Inventories.UsageUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ItemQuantityUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.ModeOfPaymentTransUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OpenCashierPeriodUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTransactionsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.OrderTypeTransUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PaymentDetailsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.PrintsUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.RefundOrderDetailUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SplitOrdersUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.SurchargeTransUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.ApplicationObjects.UserInterfaces.Transaction.TableTransUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.CreditCardUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.FormBase.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.KeyboardUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.NumericKeyboardUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Global.SwipeCardUI.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\POSFineDining.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jplarisan\Desktop\Jesryl Files\POSFineDining\Framework\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,1 @@
+SERVER=localhost; DATABASE=pointofsalefinediningversion1.0; UID=root; PWD=admin; PORT=3306

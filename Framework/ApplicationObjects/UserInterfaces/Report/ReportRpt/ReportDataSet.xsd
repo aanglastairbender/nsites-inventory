@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ReportDataSet" targetNamespace="http://tempuri.org/ReportDataSet.xsd" xmlns:mstns="http://tempuri.org/ReportDataSet.xsd" xmlns="http://tempuri.org/ReportDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ReportDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ReportDataSet" msprop:Generator_UserDSName="ReportDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CashierPeriod" msprop:Generator_TableClassName="CashierPeriodDataTable" msprop:Generator_TableVarName="tableCashierPeriod" msprop:Generator_TablePropName="CashierPeriod" msprop:Generator_RowDeletingName="CashierPeriodRowDeleting" msprop:Generator_UserTableName="CashierPeriod" msprop:Generator_RowChangingName="CashierPeriodRowChanging" msprop:Generator_RowEvHandlerName="CashierPeriodRowChangeEventHandler" msprop:Generator_RowDeletedName="CashierPeriodRowDeleted" msprop:Generator_RowEvArgName="CashierPeriodRowChangeEvent" msprop:Generator_RowChangedName="CashierPeriodRowChanged" msprop:Generator_RowClassName="CashierPeriodRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CashierPeriodId" msprop:Generator_ColumnVarNameInTable="columnCashierPeriodId" msprop:Generator_ColumnPropNameInRow="CashierPeriodId" msprop:Generator_ColumnPropNameInTable="CashierPeriodIdColumn" msprop:Generator_UserColumnName="CashierPeriodId" type="xs:string" minOccurs="0" />
+              <xs:element name="CashierPeriodSalesDayId" msprop:Generator_ColumnVarNameInTable="columnCashierPeriodSalesDayId" msprop:Generator_ColumnPropNameInRow="CashierPeriodSalesDayId" msprop:Generator_ColumnPropNameInTable="CashierPeriodSalesDayIdColumn" msprop:Generator_UserColumnName="CashierPeriodSalesDayId" type="xs:string" minOccurs="0" />
+              <xs:element name="ShiftDate" msprop:Generator_ColumnVarNameInTable="columnShiftDate" msprop:Generator_ColumnPropNameInRow="ShiftDate" msprop:Generator_ColumnPropNameInTable="ShiftDateColumn" msprop:Generator_UserColumnName="ShiftDate" type="xs:string" minOccurs="0" />
+              <xs:element name="OpenBy" msprop:Generator_ColumnVarNameInTable="columnOpenBy" msprop:Generator_ColumnPropNameInRow="OpenBy" msprop:Generator_ColumnPropNameInTable="OpenByColumn" msprop:Generator_UserColumnName="OpenBy" type="xs:string" minOccurs="0" />
+              <xs:element name="CloseBy" msprop:Generator_ColumnVarNameInTable="columnCloseBy" msprop:Generator_ColumnPropNameInRow="CloseBy" msprop:Generator_ColumnPropNameInTable="CloseByColumn" msprop:Generator_UserColumnName="CloseBy" type="xs:string" minOccurs="0" />
+              <xs:element name="CashDeposit" msprop:Generator_ColumnVarNameInTable="columnCashDeposit" msprop:Generator_ColumnPropNameInRow="CashDeposit" msprop:Generator_ColumnPropNameInTable="CashDepositColumn" msprop:Generator_UserColumnName="CashDeposit" type="xs:string" minOccurs="0" />
+              <xs:element name="CashCount" msprop:Generator_ColumnVarNameInTable="columnCashCount" msprop:Generator_ColumnPropNameInRow="CashCount" msprop:Generator_ColumnPropNameInTable="CashCountColumn" msprop:Generator_UserColumnName="CashCount" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalSales" msprop:Generator_ColumnVarNameInTable="columnTotalSales" msprop:Generator_ColumnPropNameInRow="TotalSales" msprop:Generator_ColumnPropNameInTable="TotalSalesColumn" msprop:Generator_UserColumnName="TotalSales" type="xs:string" minOccurs="0" />
+              <xs:element name="BeginningInvoice" msprop:Generator_ColumnVarNameInTable="columnBeginningInvoice" msprop:Generator_ColumnPropNameInRow="BeginningInvoice" msprop:Generator_ColumnPropNameInTable="BeginningInvoiceColumn" msprop:Generator_UserColumnName="BeginningInvoice" type="xs:string" minOccurs="0" />
+              <xs:element name="EndingInvoice" msprop:Generator_ColumnVarNameInTable="columnEndingInvoice" msprop:Generator_ColumnPropNameInRow="EndingInvoice" msprop:Generator_ColumnPropNameInTable="EndingInvoiceColumn" msprop:Generator_UserColumnName="EndingInvoice" type="xs:string" minOccurs="0" />
+              <xs:element name="TimeOpening" msprop:Generator_ColumnVarNameInTable="columnTimeOpening" msprop:Generator_ColumnPropNameInRow="TimeOpening" msprop:Generator_ColumnPropNameInTable="TimeOpeningColumn" msprop:Generator_UserColumnName="TimeOpening" type="xs:string" minOccurs="0" />
+              <xs:element name="TimeClosing" msprop:Generator_ColumnVarNameInTable="columnTimeClosing" msprop:Generator_ColumnPropNameInRow="TimeClosing" msprop:Generator_ColumnPropNameInTable="TimeClosingColumn" msprop:Generator_UserColumnName="TimeClosing" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Image" msprop:Generator_TableClassName="ImageDataTable" msprop:Generator_TableVarName="tableImage" msprop:Generator_TablePropName="Image" msprop:Generator_RowDeletingName="ImageRowDeleting" msprop:Generator_UserTableName="Image" msprop:Generator_RowChangingName="ImageRowChanging" msprop:Generator_RowEvHandlerName="ImageRowChangeEventHandler" msprop:Generator_RowDeletedName="ImageRowDeleted" msprop:Generator_RowEvArgName="ImageRowChangeEvent" msprop:Generator_RowChangedName="ImageRowChanged" msprop:Generator_RowClassName="ImageRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Image" msprop:Generator_ColumnVarNameInTable="columnImage" msprop:Generator_ColumnPropNameInRow="Image" msprop:Generator_ColumnPropNameInTable="ImageColumn" msprop:Generator_UserColumnName="Image" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
